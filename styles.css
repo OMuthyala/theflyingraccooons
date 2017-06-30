@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-image: url(http://www.uniwallpaper.com/static/images/eWtfMME_jJm8t1k.png)
+}
+
+#onecolor{
+    color: lime;
+}
+
+#othercolor {
+    color: orange;
+}
+
+#cheese {
+   text-align: left;
+   color: lime;
+   margin-bottom: 20px;
+}
+
+img { 
+ width: 200px;   
+ height:200px;
+}
